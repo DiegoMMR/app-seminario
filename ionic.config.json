@@ -1,0 +1,7 @@
+{
+  "name": "IonVision",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
